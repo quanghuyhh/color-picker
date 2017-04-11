@@ -1,8 +1,8 @@
 /*!
- * Bootstrap Colorpicker
- * http://mjolnic.github.io/bootstrap-colorpicker/
+ * Palette Color Picker
+ * https://github.com/quanghuygit/color-picker
  *
- * Originally written by (c) 2012 Stefan Petre
+ * Originally written by (c) 2017 Quang Huy
  * Licensed under the Apache License v2.0
  * http://www.apache.org/licenses/LICENSE-2.0.txt
  *
@@ -619,13 +619,6 @@
                 callTop: false
             }
         },
-        templates: '<div class="colorpicker dropdown-menu">' +
-        '<div class="colorpicker-saturation"><i><b></b></i></div>' +
-        '<div class="colorpicker-hue"><i></i></div>' +
-        '<div class="colorpicker-alpha"><i></i></div>' +
-        '<div class="colorpicker-color"><div /></div>' +
-        '<div class="colorpicker-selectors"></div>' +
-        '</div>',
         template: '<div class="colorpicker dropdown-menu"></div>',
         align: 'right',
         customClass: null,
