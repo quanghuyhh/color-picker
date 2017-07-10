@@ -12,5 +12,6 @@ Originally written by Stefan Petre and maintained by Javi Aguilar and the Github
 palette : [], // array of color you want.
 ```
 
-#Document 
+#Document
+
 https://itsjavi.com/bootstrap-colorpicker/
